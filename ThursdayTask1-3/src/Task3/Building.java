@@ -1,3 +1,5 @@
+package Task3;
+
 import java.util.ArrayList;
 
 //3.d Create a class building with rooms and numberOfFLoors

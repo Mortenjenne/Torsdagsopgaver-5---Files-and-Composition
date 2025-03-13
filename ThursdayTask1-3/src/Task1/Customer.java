@@ -1,3 +1,5 @@
+package Task1;
+
 public class Customer {
     //1.a Lav en klasse Customer
     private String firstName;
@@ -11,7 +13,7 @@ public class Customer {
         this.firstName = firstName;
         this.lastName = lastName;
         this.userName = userName;
-        //1.c counter tælles op med en hver gang konstruktøren bliver kaldt og brug counter til at initialisere id
+        //1.c Counter tælles op med en hver gang konstruktøren bliver kaldt og brug counter til at initialisere id
         counter ++;
         this.id = counter;
     }

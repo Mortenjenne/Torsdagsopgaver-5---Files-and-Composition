@@ -1,3 +1,5 @@
+package Task3;
+
 //3.a create class Room
 public class Room {
     private int numberOfLamps;

@@ -1,3 +1,5 @@
+package Task2;
+
 //2.b create a class Main and a main method
 public class Main {
     public static void main(String[] args) {

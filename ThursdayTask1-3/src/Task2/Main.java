@@ -1,8 +1,10 @@
 package Task2;
 
+import java.io.FileNotFoundException;
+
 //2.b create a class Main and a main method
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws FileNotFoundException {
 
         //2.g create a instance of Cafe class and call the loadMenuDate()
         Cafe cafe = new Cafe();
